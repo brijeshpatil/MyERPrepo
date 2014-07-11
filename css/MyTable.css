@@ -1,0 +1,50 @@
+﻿.Tb
+{
+    border: 1px solid orange;
+    box-shadow: 0px 0px 10px black;
+}
+
+.Tb tr, .Tb td, .Tb th
+{
+    border: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.Tb td a
+{
+    color: #FC7D01;
+}
+
+
+
+.Tb tr th
+{
+    background-image: url('btn-bg.png');
+}
+
+
+.TbForm
+{
+    border: 2px solid orange;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5%;
+}
+
+.MH1
+{
+    color: #FC7D01;
+    font-size: x-large;
+    font-family: Verdana;
+}
+
+.btn
+{
+    border-radius: 0px 10px 0px 10px;
+    width: 100px;
+    height: 35px;
+    background-color: black;
+    color: White;
+    border: 1px solid white;
+    font-weight: bold;
+}
